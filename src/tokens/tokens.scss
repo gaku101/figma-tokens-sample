@@ -1,0 +1,261 @@
+
+/**
+ * Do not edit directly
+ * Generated on Tue, 08 Nov 2022 11:46:44 GMT
+ */
+
+$lg: 16px !default;
+$md: 8px !default;
+$sm: 4px !default;
+$text-decoration-none: none !default;
+$text-case-uppercase: uppercase !default;
+$text-case-none: none !default;
+$recommend-title-en: [object Object] !default;
+$recommend-title-ja: [object Object] !default;
+$overlay-caption-ja: [object Object] !default;
+$overlay-caption-en: [object Object] !default;
+$action-lg-ja: [object Object] !default;
+$action-lg-en: [object Object] !default;
+$action-md: [object Object] !default;
+$action-sm: [object Object] !default;
+$app-item-title-lg-en: [object Object] !default;
+$app-item-title-lg-ja: [object Object] !default;
+$app-item-title-md-en: [object Object] !default;
+$app-item-title-sm-en: [object Object] !default;
+$card-title-en: [object Object] !default;
+$card-title-ja: [object Object] !default;
+$hero-title: [object Object] !default;
+$feature-app-caption: [object Object] !default;
+$feature-app-category: [object Object] !default;
+$feature-app-title: [object Object] !default;
+$overlay-body: [object Object] !default;
+$support-title: [object Object] !default;
+$review-date: [object Object] !default;
+$reviewer: [object Object] !default;
+$review-title: [object Object] !default;
+$rating-detail-body: [object Object] !default;
+$rating-detail-caption: [object Object] !default;
+$rating-detail-number: [object Object] !default;
+$action-caption: [object Object] !default;
+$detail-body: [object Object] !default;
+$detail-heading: [object Object] !default;
+$detail-list-item: [object Object] !default;
+$detail-caption: [object Object] !default;
+$detail-title: [object Object] !default;
+$header-nav: [object Object] !default;
+$rating-summary-caption: [object Object] !default;
+$rating-summary-number: [object Object] !default;
+$today-heading: [object Object] !default;
+$today-body: [object Object] !default;
+$app-item-price-caption: [object Object] !default;
+$app-item-price: [object Object] !default;
+$app-item-category: [object Object] !default;
+$card-description: [object Object] !default;
+$category: [object Object] !default;
+$tab-label: [object Object] !default;
+$button-label: [object Object] !default;
+$page-title: [object Object] !default;
+$paragraph-spacing-0: 0 !default;
+$letter-spacing-2: -2% !default;
+$letter-spacing-1: 0 !default;
+$letter-spacing-0: 0% !default;
+$font-size-14: 56 !default;
+$font-size-13: 35 !default;
+$font-size-12: 27 !default;
+$font-size-11: 26 !default;
+$font-size-10: 24 !default;
+$font-size-9: 20 !default;
+$font-size-8: 18 !default;
+$font-size-7: 17 !default;
+$font-size-6: 16 !default;
+$font-size-5: 15 !default;
+$font-size-4: 14 !default;
+$font-size-3: 13 !default;
+$font-size-2: 12 !default;
+$font-size-1: 10 !default;
+$font-size-0: 7 !default;
+$font-weights-hiragino-sans-11: W3 !default;
+$font-weights-sf-pro-display-10: Semibold !default;
+$font-weights-sf-pro-display-9: Regular !default;
+$font-weights-sf-pro-text-8: Semibold !default;
+$font-weights-hiragino-sans-7: W6 !default;
+$font-weights-hiragino-sans-6: W4 !default;
+$font-weights-sf-pro-text-5: Bold !default;
+$font-weights-hiragino-sans-4: W5 !default;
+$font-weights-sf-pro-text-3: Medium !default;
+$font-weights-sf-pro-text-2: Regular !default;
+$font-weights-sf-compact-text-1: Medium !default;
+$font-weights-sf-pro-display-0: Bold !default;
+$line-heights-7: 20 !default;
+$line-heights-6: 56 !default;
+$line-heights-5: 32 !default;
+$line-heights-4: 8 !default;
+$line-heights-3: 16 !default;
+$line-heights-2: AUTO !default;
+$line-heights-1: 24 !default;
+$line-heights-0: 40 !default;
+$font-families-hiragino-sans: Hiragino Sans !default;
+$font-families-sf-pro-text: SF Pro Text !default;
+$font-families-sf-compact-text: SF Compact Text !default;
+$font-families-sf-pro-display: SF Pro Display !default;
+$black-alpha-70: #0f0f0fb3 !default;
+$black-alpha-25: #00000033 !default;
+$gray-900: #000000 !default;
+$gray-800: #202020 !default;
+$gray-700: #353535 !default;
+$gray-600: #6b6b6b !default;
+$gray-500: #888888 !default;
+$gray-400: #a7a7a7 !default;
+$gray-300: #c4c4c4 !default;
+$gray-200: #dbdbdb !default;
+$gray-100: #f5f5f5 !default;
+$gray-0: #ffffff !default;
+$navy: #213752 !default;
+$orange: #dd7439 !default;
+$blue: #147edf !default;
+$token-set-order-0: global !default;
+
+$css-tokens: (
+  'tokenSetOrder': (
+    '0': $token-set-order-0
+  ),
+  'Blue': $blue,
+  'Orange': $orange,
+  'Navy': $navy,
+  'Gray': (
+    '0': $gray-0,
+    '100': $gray-100,
+    '200': $gray-200,
+    '300': $gray-300,
+    '400': $gray-400,
+    '500': $gray-500,
+    '600': $gray-600,
+    '700': $gray-700,
+    '800': $gray-800,
+    '900': $gray-900
+  ),
+  'BlackAlpha': (
+    '25': $black-alpha-25,
+    '70': $black-alpha-70
+  ),
+  'fontFamilies': (
+    'sf-pro-display': $font-families-sf-pro-display,
+    'sf-compact-text': $font-families-sf-compact-text,
+    'sf-pro-text': $font-families-sf-pro-text,
+    'hiragino-sans': $font-families-hiragino-sans
+  ),
+  'lineHeights': (
+    '0': $line-heights-0,
+    '1': $line-heights-1,
+    '2': $line-heights-2,
+    '3': $line-heights-3,
+    '4': $line-heights-4,
+    '5': $line-heights-5,
+    '6': $line-heights-6,
+    '7': $line-heights-7
+  ),
+  'fontWeights': (
+    'sf-pro-display-0': $font-weights-sf-pro-display-0,
+    'sf-compact-text-1': $font-weights-sf-compact-text-1,
+    'sf-pro-text-2': $font-weights-sf-pro-text-2,
+    'sf-pro-text-3': $font-weights-sf-pro-text-3,
+    'hiragino-sans-4': $font-weights-hiragino-sans-4,
+    'sf-pro-text-5': $font-weights-sf-pro-text-5,
+    'hiragino-sans-6': $font-weights-hiragino-sans-6,
+    'hiragino-sans-7': $font-weights-hiragino-sans-7,
+    'sf-pro-text-8': $font-weights-sf-pro-text-8,
+    'sf-pro-display-9': $font-weights-sf-pro-display-9,
+    'sf-pro-display-10': $font-weights-sf-pro-display-10,
+    'hiragino-sans-11': $font-weights-hiragino-sans-11
+  ),
+  'fontSize': (
+    '0': $font-size-0,
+    '1': $font-size-1,
+    '2': $font-size-2,
+    '3': $font-size-3,
+    '4': $font-size-4,
+    '5': $font-size-5,
+    '6': $font-size-6,
+    '7': $font-size-7,
+    '8': $font-size-8,
+    '9': $font-size-9,
+    '10': $font-size-10,
+    '11': $font-size-11,
+    '12': $font-size-12,
+    '13': $font-size-13,
+    '14': $font-size-14
+  ),
+  'letterSpacing': (
+    '0': $letter-spacing-0,
+    '1': $letter-spacing-1,
+    '2': $letter-spacing-2
+  ),
+  'paragraphSpacing': (
+    '0': $paragraph-spacing-0
+  ),
+  'PageTitle': $page-title,
+  'ButtonLabel': $button-label,
+  'TabLabel': $tab-label,
+  'Category': $category,
+  'CardDescription': $card-description,
+  'AppItemCategory': $app-item-category,
+  'AppItemPrice': $app-item-price,
+  'AppItemPriceCaption': $app-item-price-caption,
+  'TodayBody': $today-body,
+  'TodayHeading': $today-heading,
+  'RatingSummaryNumber': $rating-summary-number,
+  'RatingSummaryCaption': $rating-summary-caption,
+  'HeaderNav': $header-nav,
+  'DetailTitle': $detail-title,
+  'DetailCaption': $detail-caption,
+  'DetailListItem': $detail-list-item,
+  'DetailHeading': $detail-heading,
+  'DetailBody': $detail-body,
+  'ActionCaption': $action-caption,
+  'RatingDetailNumber': $rating-detail-number,
+  'RatingDetailCaption': $rating-detail-caption,
+  'RatingDetailBody': $rating-detail-body,
+  'ReviewTitle': $review-title,
+  'Reviewer': $reviewer,
+  'ReviewDate': $review-date,
+  'SupportTitle': $support-title,
+  'OverlayBody': $overlay-body,
+  'FeatureAppTitle': $feature-app-title,
+  'FeatureAppCategory': $feature-app-category,
+  'FeatureAppCaption': $feature-app-caption,
+  'HeroTitle': $hero-title,
+  'CardTitle': (
+    'ja': $card-title-ja,
+    'en': $card-title-en
+  ),
+  'AppItemTitle': (
+    'sm-en': $app-item-title-sm-en,
+    'md-en': $app-item-title-md-en,
+    'lg-ja': $app-item-title-lg-ja,
+    'lg-en': $app-item-title-lg-en
+  ),
+  'Action': (
+    'sm': $action-sm,
+    'md': $action-md,
+    'lg-en': $action-lg-en,
+    'lg-ja': $action-lg-ja
+  ),
+  'OverlayCaption': (
+    'en': $overlay-caption-en,
+    'ja': $overlay-caption-ja
+  ),
+  'RecommendTitle': (
+    'ja': $recommend-title-ja,
+    'en': $recommend-title-en
+  ),
+  'textCase': (
+    'none': $text-case-none,
+    'uppercase': $text-case-uppercase
+  ),
+  'textDecoration': (
+    'none': $text-decoration-none
+  ),
+  'sm': $sm,
+  'md': $md,
+  'lg': $lg
+);

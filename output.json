@@ -1,0 +1,879 @@
+{
+  "tokenSetOrder": {
+    "0": {
+      "value": "global",
+      "type": "other"
+    }
+  },
+  "Blue": {
+    "value": "#147edf",
+    "type": "color"
+  },
+  "Orange": {
+    "value": "#dd7439",
+    "type": "color"
+  },
+  "Navy": {
+    "value": "#213752",
+    "type": "color"
+  },
+  "Gray": {
+    "0": {
+      "value": "#ffffff",
+      "type": "color"
+    },
+    "100": {
+      "value": "#f5f5f5",
+      "type": "color"
+    },
+    "200": {
+      "value": "#dbdbdb",
+      "type": "color"
+    },
+    "300": {
+      "value": "#c4c4c4",
+      "type": "color"
+    },
+    "400": {
+      "value": "#a7a7a7",
+      "type": "color"
+    },
+    "500": {
+      "value": "#888888",
+      "type": "color"
+    },
+    "600": {
+      "value": "#6b6b6b",
+      "type": "color"
+    },
+    "700": {
+      "value": "#353535",
+      "type": "color"
+    },
+    "800": {
+      "value": "#202020",
+      "type": "color"
+    },
+    "900": {
+      "value": "#000000",
+      "type": "color"
+    }
+  },
+  "BlackAlpha": {
+    "25": {
+      "value": "#00000033",
+      "type": "color"
+    },
+    "70": {
+      "value": "#0f0f0fb3",
+      "type": "color"
+    }
+  },
+  "fontFamilies": {
+    "sf-pro-display": {
+      "value": "SF Pro Display",
+      "type": "fontFamilies"
+    },
+    "sf-compact-text": {
+      "value": "SF Compact Text",
+      "type": "fontFamilies"
+    },
+    "sf-pro-text": {
+      "value": "SF Pro Text",
+      "type": "fontFamilies"
+    },
+    "hiragino-sans": {
+      "value": "Hiragino Sans",
+      "type": "fontFamilies"
+    }
+  },
+  "lineHeights": {
+    "0": {
+      "value": 40,
+      "type": "lineHeights"
+    },
+    "1": {
+      "value": 24,
+      "type": "lineHeights"
+    },
+    "2": {
+      "value": "AUTO",
+      "type": "lineHeights"
+    },
+    "3": {
+      "value": 16,
+      "type": "lineHeights"
+    },
+    "4": {
+      "value": 8,
+      "type": "lineHeights"
+    },
+    "5": {
+      "value": 32,
+      "type": "lineHeights"
+    },
+    "6": {
+      "value": 56,
+      "type": "lineHeights"
+    },
+    "7": {
+      "value": 20,
+      "type": "lineHeights"
+    }
+  },
+  "fontWeights": {
+    "sf-pro-display-0": {
+      "value": "Bold",
+      "type": "fontWeights"
+    },
+    "sf-compact-text-1": {
+      "value": "Medium",
+      "type": "fontWeights"
+    },
+    "sf-pro-text-2": {
+      "value": "Regular",
+      "type": "fontWeights"
+    },
+    "sf-pro-text-3": {
+      "value": "Medium",
+      "type": "fontWeights"
+    },
+    "hiragino-sans-4": {
+      "value": "W5",
+      "type": "fontWeights"
+    },
+    "sf-pro-text-5": {
+      "value": "Bold",
+      "type": "fontWeights"
+    },
+    "hiragino-sans-6": {
+      "value": "W4",
+      "type": "fontWeights"
+    },
+    "hiragino-sans-7": {
+      "value": "W6",
+      "type": "fontWeights"
+    },
+    "sf-pro-text-8": {
+      "value": "Semibold",
+      "type": "fontWeights"
+    },
+    "sf-pro-display-9": {
+      "value": "Regular",
+      "type": "fontWeights"
+    },
+    "sf-pro-display-10": {
+      "value": "Semibold",
+      "type": "fontWeights"
+    },
+    "hiragino-sans-11": {
+      "value": "W3",
+      "type": "fontWeights"
+    }
+  },
+  "fontSize": {
+    "0": {
+      "value": 7,
+      "type": "fontSizes"
+    },
+    "1": {
+      "value": 10,
+      "type": "fontSizes"
+    },
+    "2": {
+      "value": 12,
+      "type": "fontSizes"
+    },
+    "3": {
+      "value": 13,
+      "type": "fontSizes"
+    },
+    "4": {
+      "value": 14,
+      "type": "fontSizes"
+    },
+    "5": {
+      "value": 15,
+      "type": "fontSizes"
+    },
+    "6": {
+      "value": 16,
+      "type": "fontSizes"
+    },
+    "7": {
+      "value": 17,
+      "type": "fontSizes"
+    },
+    "8": {
+      "value": 18,
+      "type": "fontSizes"
+    },
+    "9": {
+      "value": 20,
+      "type": "fontSizes"
+    },
+    "10": {
+      "value": 24,
+      "type": "fontSizes"
+    },
+    "11": {
+      "value": 26,
+      "type": "fontSizes"
+    },
+    "12": {
+      "value": 27,
+      "type": "fontSizes"
+    },
+    "13": {
+      "value": 35,
+      "type": "fontSizes"
+    },
+    "14": {
+      "value": 56,
+      "type": "fontSizes"
+    }
+  },
+  "letterSpacing": {
+    "0": {
+      "value": "0%",
+      "type": "letterSpacing"
+    },
+    "1": {
+      "value": 0,
+      "type": "letterSpacing"
+    },
+    "2": {
+      "value": "-2%",
+      "type": "letterSpacing"
+    }
+  },
+  "paragraphSpacing": {
+    "0": {
+      "value": 0,
+      "type": "paragraphSpacing"
+    }
+  },
+  "PageTitle": {
+    "value": {
+      "fontFamily": "SF Pro Display",
+      "fontWeight": "Bold",
+      "lineHeight": 40,
+      "fontSize": 35,
+      "letterSpacing": "0%",
+      "paragraphSpacing": 0,
+      "textCase": "none",
+      "textDecoration": "none"
+    },
+    "type": "typography"
+  },
+  "ButtonLabel": {
+    "value": {
+      "fontFamily": "SF Compact Text",
+      "fontWeight": "Medium",
+      "lineHeight": 24,
+      "fontSize": 18,
+      "letterSpacing": 0,
+      "paragraphSpacing": 0,
+      "textCase": "none",
+      "textDecoration": "none"
+    },
+    "type": "typography"
+  },
+  "TabLabel": {
+    "value": {
+      "fontFamily": "SF Pro Text",
+      "fontWeight": "Regular",
+      "lineHeight": "AUTO",
+      "fontSize": 10,
+      "letterSpacing": "0%",
+      "paragraphSpacing": 0,
+      "textCase": "none",
+      "textDecoration": "none"
+    },
+    "type": "typography"
+  },
+  "Category": {
+    "value": {
+      "fontFamily": "SF Pro Text",
+      "fontWeight": "Medium",
+      "lineHeight": "AUTO",
+      "fontSize": 13,
+      "letterSpacing": "0%",
+      "paragraphSpacing": 0,
+      "textCase": "uppercase",
+      "textDecoration": "none"
+    },
+    "type": "typography"
+  },
+  "CardDescription": {
+    "value": {
+      "fontFamily": "Hiragino Sans",
+      "fontWeight": "W5",
+      "lineHeight": 24,
+      "fontSize": 15,
+      "letterSpacing": "0%",
+      "paragraphSpacing": 0,
+      "textCase": "uppercase",
+      "textDecoration": "none"
+    },
+    "type": "typography"
+  },
+  "AppItemCategory": {
+    "value": {
+      "fontFamily": "SF Pro Text",
+      "fontWeight": "Medium",
+      "lineHeight": 16,
+      "fontSize": 12,
+      "letterSpacing": "0%",
+      "paragraphSpacing": 0,
+      "textCase": "none",
+      "textDecoration": "none"
+    },
+    "type": "typography"
+  },
+  "AppItemPrice": {
+    "value": {
+      "fontFamily": "SF Pro Text",
+      "fontWeight": "Bold",
+      "lineHeight": 16,
+      "fontSize": 14,
+      "letterSpacing": "0%",
+      "paragraphSpacing": 0,
+      "textCase": "none",
+      "textDecoration": "none"
+    },
+    "type": "typography"
+  },
+  "AppItemPriceCaption": {
+    "value": {
+      "fontFamily": "SF Pro Text",
+      "fontWeight": "Regular",
+      "lineHeight": 8,
+      "fontSize": 7,
+      "letterSpacing": "0%",
+      "paragraphSpacing": 0,
+      "textCase": "none",
+      "textDecoration": "none"
+    },
+    "type": "typography"
+  },
+  "TodayBody": {
+    "value": {
+      "fontFamily": "Hiragino Sans",
+      "fontWeight": "W4",
+      "lineHeight": 24,
+      "fontSize": 17,
+      "letterSpacing": 0,
+      "paragraphSpacing": 0,
+      "textCase": "none",
+      "textDecoration": "none"
+    },
+    "type": "typography"
+  },
+  "TodayHeading": {
+    "value": {
+      "fontFamily": "Hiragino Sans",
+      "fontWeight": "W6",
+      "lineHeight": 32,
+      "fontSize": 18,
+      "letterSpacing": 0,
+      "paragraphSpacing": 0,
+      "textCase": "none",
+      "textDecoration": "none"
+    },
+    "type": "typography"
+  },
+  "RatingSummaryNumber": {
+    "value": {
+      "fontFamily": "SF Pro Text",
+      "fontWeight": "Semibold",
+      "lineHeight": 24,
+      "fontSize": 20,
+      "letterSpacing": "0%",
+      "paragraphSpacing": 0,
+      "textCase": "none",
+      "textDecoration": "none"
+    },
+    "type": "typography"
+  },
+  "RatingSummaryCaption": {
+    "value": {
+      "fontFamily": "SF Pro Text",
+      "fontWeight": "Regular",
+      "lineHeight": 16,
+      "fontSize": 10,
+      "letterSpacing": "0%",
+      "paragraphSpacing": 0,
+      "textCase": "none",
+      "textDecoration": "none"
+    },
+    "type": "typography"
+  },
+  "HeaderNav": {
+    "value": {
+      "fontFamily": "SF Pro Text",
+      "fontWeight": "Regular",
+      "lineHeight": 24,
+      "fontSize": 18,
+      "letterSpacing": "0%",
+      "paragraphSpacing": 0,
+      "textCase": "none",
+      "textDecoration": "none"
+    },
+    "type": "typography"
+  },
+  "DetailTitle": {
+    "value": {
+      "fontFamily": "Hiragino Sans",
+      "fontWeight": "W6",
+      "lineHeight": 32,
+      "fontSize": 20,
+      "letterSpacing": "0%",
+      "paragraphSpacing": 0,
+      "textCase": "none",
+      "textDecoration": "none"
+    },
+    "type": "typography"
+  },
+  "DetailCaption": {
+    "value": {
+      "fontFamily": "SF Pro Text",
+      "fontWeight": "Regular",
+      "lineHeight": 24,
+      "fontSize": 14,
+      "letterSpacing": "0%",
+      "paragraphSpacing": 0,
+      "textCase": "none",
+      "textDecoration": "none"
+    },
+    "type": "typography"
+  },
+  "DetailListItem": {
+    "value": {
+      "fontFamily": "SF Pro Text",
+      "fontWeight": "Regular",
+      "lineHeight": 32,
+      "fontSize": 16,
+      "letterSpacing": "0%",
+      "paragraphSpacing": 0,
+      "textCase": "none",
+      "textDecoration": "none"
+    },
+    "type": "typography"
+  },
+  "DetailHeading": {
+    "value": {
+      "fontFamily": "SF Pro Display",
+      "fontWeight": "Bold",
+      "lineHeight": 24,
+      "fontSize": 20,
+      "letterSpacing": "0%",
+      "paragraphSpacing": 0,
+      "textCase": "none",
+      "textDecoration": "none"
+    },
+    "type": "typography"
+  },
+  "DetailBody": {
+    "value": {
+      "fontFamily": "Hiragino Sans",
+      "fontWeight": "W4",
+      "lineHeight": 24,
+      "fontSize": 14,
+      "letterSpacing": "0%",
+      "paragraphSpacing": 0,
+      "textCase": "none",
+      "textDecoration": "none"
+    },
+    "type": "typography"
+  },
+  "ActionCaption": {
+    "value": {
+      "fontFamily": "SF Pro Text",
+      "fontWeight": "Regular",
+      "lineHeight": 16,
+      "fontSize": 12,
+      "letterSpacing": "0%",
+      "paragraphSpacing": 0,
+      "textCase": "none",
+      "textDecoration": "none"
+    },
+    "type": "typography"
+  },
+  "RatingDetailNumber": {
+    "value": {
+      "fontFamily": "SF Pro Display",
+      "fontWeight": "Bold",
+      "lineHeight": 56,
+      "fontSize": 56,
+      "letterSpacing": "-2%",
+      "paragraphSpacing": 0,
+      "textCase": "none",
+      "textDecoration": "none"
+    },
+    "type": "typography"
+  },
+  "RatingDetailCaption": {
+    "value": {
+      "fontFamily": "SF Pro Text",
+      "fontWeight": "Semibold",
+      "lineHeight": 24,
+      "fontSize": 14,
+      "letterSpacing": "0%",
+      "paragraphSpacing": 0,
+      "textCase": "none",
+      "textDecoration": "none"
+    },
+    "type": "typography"
+  },
+  "RatingDetailBody": {
+    "value": {
+      "fontFamily": "SF Pro Text",
+      "fontWeight": "Regular",
+      "lineHeight": 24,
+      "fontSize": 16,
+      "letterSpacing": "0%",
+      "paragraphSpacing": 0,
+      "textCase": "none",
+      "textDecoration": "none"
+    },
+    "type": "typography"
+  },
+  "ReviewTitle": {
+    "value": {
+      "fontFamily": "Hiragino Sans",
+      "fontWeight": "W5",
+      "lineHeight": 24,
+      "fontSize": 14,
+      "letterSpacing": "0%",
+      "paragraphSpacing": 0,
+      "textCase": "none",
+      "textDecoration": "none"
+    },
+    "type": "typography"
+  },
+  "Reviewer": {
+    "value": {
+      "fontFamily": "Hiragino Sans",
+      "fontWeight": "W4",
+      "lineHeight": 16,
+      "fontSize": 12,
+      "letterSpacing": "0%",
+      "paragraphSpacing": 0,
+      "textCase": "none",
+      "textDecoration": "none"
+    },
+    "type": "typography"
+  },
+  "ReviewDate": {
+    "value": {
+      "fontFamily": "SF Pro Text",
+      "fontWeight": "Regular",
+      "lineHeight": 16,
+      "fontSize": 12,
+      "letterSpacing": "0%",
+      "paragraphSpacing": 0,
+      "textCase": "none",
+      "textDecoration": "none"
+    },
+    "type": "typography"
+  },
+  "SupportTitle": {
+    "value": {
+      "fontFamily": "SF Pro Text",
+      "fontWeight": "Regular",
+      "lineHeight": 24,
+      "fontSize": 18,
+      "letterSpacing": "0%",
+      "paragraphSpacing": 0,
+      "textCase": "none",
+      "textDecoration": "none"
+    },
+    "type": "typography"
+  },
+  "OverlayBody": {
+    "value": {
+      "fontFamily": "SF Pro Text",
+      "fontWeight": "Regular",
+      "lineHeight": 24,
+      "fontSize": 16,
+      "letterSpacing": 0,
+      "paragraphSpacing": 0,
+      "textCase": "none",
+      "textDecoration": "none"
+    },
+    "type": "typography"
+  },
+  "FeatureAppTitle": {
+    "value": {
+      "fontFamily": "SF Pro Display",
+      "fontWeight": "Regular",
+      "lineHeight": 24,
+      "fontSize": 20,
+      "letterSpacing": 0,
+      "paragraphSpacing": 0,
+      "textCase": "none",
+      "textDecoration": "none"
+    },
+    "type": "typography"
+  },
+  "FeatureAppCategory": {
+    "value": {
+      "fontFamily": "SF Pro Text",
+      "fontWeight": "Regular",
+      "lineHeight": 24,
+      "fontSize": 16,
+      "letterSpacing": 0,
+      "paragraphSpacing": 0,
+      "textCase": "none",
+      "textDecoration": "none"
+    },
+    "type": "typography"
+  },
+  "FeatureAppCaption": {
+    "value": {
+      "fontFamily": "SF Pro Text",
+      "fontWeight": "Medium",
+      "lineHeight": "AUTO",
+      "fontSize": 13,
+      "letterSpacing": 0,
+      "paragraphSpacing": 0,
+      "textCase": "uppercase",
+      "textDecoration": "none"
+    },
+    "type": "typography"
+  },
+  "HeroTitle": {
+    "value": {
+      "fontFamily": "SF Pro Display",
+      "fontWeight": "Semibold",
+      "lineHeight": 32,
+      "fontSize": 27,
+      "letterSpacing": 0,
+      "paragraphSpacing": 0,
+      "textCase": "none",
+      "textDecoration": "none"
+    },
+    "type": "typography"
+  },
+  "CardTitle": {
+    "ja": {
+      "value": {
+        "fontFamily": "Hiragino Sans",
+        "fontWeight": "W5",
+        "lineHeight": 32,
+        "fontSize": 24,
+        "letterSpacing": "0%",
+        "paragraphSpacing": 0,
+        "textCase": "none",
+        "textDecoration": "none"
+      },
+      "type": "typography"
+    },
+    "en": {
+      "value": {
+        "fontFamily": "SF Pro Display",
+        "fontWeight": "Semibold",
+        "lineHeight": 32,
+        "fontSize": 26,
+        "letterSpacing": "0%",
+        "paragraphSpacing": 0,
+        "textCase": "none",
+        "textDecoration": "none"
+      },
+      "type": "typography"
+    }
+  },
+  "AppItemTitle": {
+    "sm-en": {
+      "value": {
+        "fontFamily": "SF Pro Text",
+        "fontWeight": "Medium",
+        "lineHeight": 16,
+        "fontSize": 14,
+        "letterSpacing": "0%",
+        "paragraphSpacing": 0,
+        "textCase": "none",
+        "textDecoration": "none"
+      },
+      "type": "typography"
+    },
+    "md-en": {
+      "value": {
+        "fontFamily": "SF Pro Text",
+        "fontWeight": "Regular",
+        "lineHeight": 20,
+        "fontSize": 16,
+        "letterSpacing": "0%",
+        "paragraphSpacing": 0,
+        "textCase": "none",
+        "textDecoration": "none"
+      },
+      "type": "typography"
+    },
+    "lg-ja": {
+      "value": {
+        "fontFamily": "Hiragino Sans",
+        "fontWeight": "W4",
+        "lineHeight": 24,
+        "fontSize": 16,
+        "letterSpacing": "0%",
+        "paragraphSpacing": 0,
+        "textCase": "none",
+        "textDecoration": "none"
+      },
+      "type": "typography"
+    },
+    "lg-en": {
+      "value": {
+        "fontFamily": "SF Pro Text",
+        "fontWeight": "Regular",
+        "lineHeight": 24,
+        "fontSize": 16,
+        "letterSpacing": 0,
+        "paragraphSpacing": 0,
+        "textCase": "none",
+        "textDecoration": "none"
+      },
+      "type": "typography"
+    }
+  },
+  "Action": {
+    "sm": {
+      "value": {
+        "fontFamily": "SF Pro Text",
+        "fontWeight": "Regular",
+        "lineHeight": 24,
+        "fontSize": 14,
+        "letterSpacing": "0%",
+        "paragraphSpacing": 0,
+        "textCase": "none",
+        "textDecoration": "none"
+      },
+      "type": "typography"
+    },
+    "md": {
+      "value": {
+        "fontFamily": "SF Pro Text",
+        "fontWeight": "Regular",
+        "lineHeight": 24,
+        "fontSize": 16,
+        "letterSpacing": "0%",
+        "paragraphSpacing": 0,
+        "textCase": "none",
+        "textDecoration": "none"
+      },
+      "type": "typography"
+    },
+    "lg-en": {
+      "value": {
+        "fontFamily": "SF Pro Display",
+        "fontWeight": "Regular",
+        "lineHeight": "AUTO",
+        "fontSize": 20,
+        "letterSpacing": 0,
+        "paragraphSpacing": 0,
+        "textCase": "none",
+        "textDecoration": "none"
+      },
+      "type": "typography"
+    },
+    "lg-ja": {
+      "value": {
+        "fontFamily": "Hiragino Sans",
+        "fontWeight": "W3",
+        "lineHeight": 24,
+        "fontSize": 20,
+        "letterSpacing": 0,
+        "paragraphSpacing": 0,
+        "textCase": "none",
+        "textDecoration": "none"
+      },
+      "type": "typography"
+    }
+  },
+  "OverlayCaption": {
+    "en": {
+      "value": {
+        "fontFamily": "SF Pro Text",
+        "fontWeight": "Regular",
+        "lineHeight": 16,
+        "fontSize": 12,
+        "letterSpacing": 0,
+        "paragraphSpacing": 0,
+        "textCase": "uppercase",
+        "textDecoration": "none"
+      },
+      "type": "typography"
+    },
+    "ja": {
+      "value": {
+        "fontFamily": "Hiragino Sans",
+        "fontWeight": "W3",
+        "lineHeight": 16,
+        "fontSize": 12,
+        "letterSpacing": 0,
+        "paragraphSpacing": 0,
+        "textCase": "none",
+        "textDecoration": "none"
+      },
+      "type": "typography"
+    }
+  },
+  "RecommendTitle": {
+    "ja": {
+      "value": {
+        "fontFamily": "Hiragino Sans",
+        "fontWeight": "W3",
+        "lineHeight": 20,
+        "fontSize": 14,
+        "letterSpacing": 0,
+        "paragraphSpacing": 0,
+        "textCase": "none",
+        "textDecoration": "none"
+      },
+      "type": "typography"
+    },
+    "en": {
+      "value": {
+        "fontFamily": "SF Pro Text",
+        "fontWeight": "Regular",
+        "lineHeight": 20,
+        "fontSize": 15,
+        "letterSpacing": 0,
+        "paragraphSpacing": 0,
+        "textCase": "none",
+        "textDecoration": "none"
+      },
+      "type": "typography"
+    }
+  },
+  "textCase": {
+    "none": {
+      "value": "none",
+      "type": "textCase"
+    },
+    "uppercase": {
+      "value": "uppercase",
+      "type": "textCase"
+    }
+  },
+  "textDecoration": {
+    "none": {
+      "value": "none",
+      "type": "textDecoration"
+    }
+  },
+  "sm": {
+    "value": "4px",
+    "type": "sizing"
+  },
+  "md": {
+    "value": "8px",
+    "type": "sizing"
+  },
+  "lg": {
+    "value": "16px",
+    "type": "sizing"
+  }
+}
